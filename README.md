@@ -4,6 +4,8 @@
   Lada
 </h1>
 
+完全在本地运行，由AI模型驱动，不联网、不上传、不限制的去马赛克工具
+
 *Lada* is a tool designed to recover pixelated adult videos (JAV). It helps restore the visual quality of such content, making it more enjoyable to watch.
 
 ## Features
